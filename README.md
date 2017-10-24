@@ -5,3 +5,6 @@ I used Random Forest Classifier and the accuracy is 97.2%
 Programming language used - Python 3.6 with Anaconda
 Python Libraries Used --- Numpy, Pandas and Sklearn
 
+```pip install numpy
+   pip install pandas
+   pip install sklearn```
