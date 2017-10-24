@@ -6,6 +6,6 @@ Programming language used - Python 3.6 with Anaconda
 Libraries Used --- Numpy, Pandas and Sklearn
 
 before running the code please install python and the following libraries :
->>> pip install numpy
->>> pip install pandas
->>> pip install sklearn
+   pip install numpy
+   pip install pandas
+   pip install sklearn
